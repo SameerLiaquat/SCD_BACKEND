@@ -1,11 +1,23 @@
 {
   "name": "scd_backendproj",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SameerLiaquat/SCD_BACKEND.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SameerLiaquat/SCD_BACKEND/issues"
+  },
+  "homepage": "https://github.com/SameerLiaquat/SCD_BACKEND#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  },
+  "description": ""
 }
